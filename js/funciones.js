@@ -118,9 +118,9 @@ const finalizarCompra = () => {
     Swal.fire({
         title: "Gracias por tu Compra!",
         text: "El total a pagar es $" + sumaTotalProductos() + " pesos.",
-        imageUrl: "../multi/logo.png",
+        imageUrl: "../img/logo.png",
         imageWidth: 160,
-        imageAlt: "Coches de Metal",
+        imageAlt: "MDZ GAMER",
         showCancelButton: true,
         confirmButtonColor: "#3085d6",
         cancelButtonColor: "#d33",
